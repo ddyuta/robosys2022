@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# SPDX-FileCopyrightText: 2022 Yuta Domen
+# SPDX-License-Identifier: BSD-3-Clause
 import sys
 
 ans = 0
